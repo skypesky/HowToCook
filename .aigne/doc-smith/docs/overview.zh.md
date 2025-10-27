@@ -1,91 +1,86 @@
 # 概述
 
-欢迎使用《程序员做饭指南》。本指南的创立源于一个简单的目标：用编写代码的严谨思维来呈现菜谱。许多在线菜谱描述模糊、步骤随意，对于习惯了精确与逻辑的程序员而言，这样的内容往往难以遵循。
+本指南旨在为习惯了形式化语言的程序员，以及所有追求精准、逻辑清晰的烹饪爱好者，提供一份详尽且易于理解的家庭烹饪手册。我们发现，网络上的许多菜谱描述随意、步骤模糊，常常导致操作者在实际烹饪过程中遇到困惑。为了解决这一问题，本项目致力于将烹饪过程标准化、结构化，确保任何人按照同一份菜谱操作，都能得到稳定且可预期的结果。
 
-因此，我们创建了这个项目，旨在提供一系列清晰、标准化且易于复现的烹饪说明，让任何人在家都能轻松、自信地做出美味佳肴。
+## 指南特色
 
-## 核心理念
-
-本指南不仅仅是一本菜谱的集合，它遵循着一套严谨的原则，以确保内容的准确性和实用性。
-
-<x-cards data-columns="3">
-  <x-card data-title="精确与标准化" data-icon="lucide:ruler">
-    我们的菜谱力求形式化，避免使用“少许”、“适量”等模糊词汇。目标是让不同的烹饪者按照同一份菜谱，能做出味道和外观都高度一致的成品。这不仅方便人类阅读，也为机器处理和 AI 学习奠定了基础。
-  </x-card>
-  <x-card data-title="开源与社区驱动" data-icon="lucide:users">
-    这是一个由社区共同维护的开源项目。我们欢迎任何人贡献新的菜谱、修正现有问题或提出改进建议。您的每一次参与都能让这个指南变得更加完善。
-  </x-card>
-  <x-card data-title="非商业与 AI 友好" data-icon="lucide:cpu">
-    本指南将永久保持非商业化，不含广告，不为特定品牌背书。我们鼓励社区利用这些标准化的菜谱数据进行二次开发，例如训练烹饪 AI 或集成到健康管理应用中。
-  </x-card>
-</x-cards>
+- **精准量化**：我们摒弃“少许”、“适量”等模糊描述，尽可能对所有食材和调味料进行精确称量，并明确烹饪的时间和温度参数。
+- **逻辑清晰**：每个菜谱都遵循严格的结构，包括原料清单、厨具需求、详细步骤和最终成品检验标准，使烹饪过程如同一段严谨的代码执行。
+- **社区驱动**：这是一个开源项目，我们鼓励社区成员贡献新的菜谱、优化现有流程，共同维护这份知识库。所有内容都旨在方便二次开发和机器读取，使其成为未来智能化生命管理体系中的一个可靠模块。
+- **非商业化**：本指南将永久保持非商业性质，不插入任何广告，不与特定品牌挂钩，专注于提供纯粹、可靠的烹饪知识。
 
 ## 指南结构
 
-为了方便您快速查找所需信息，我们将内容划分为以下几个核心部分：
+为了满足不同水平用户的需求，本指南内容被划分为几个核心模块。您可以根据自己的情况，选择从合适的章节开始。
 
 ```d2
 direction: down
 
-guide: {
-  label: "程序员做饭指南"
-  shape: rectangle
+Cooking-Guide: "烹饪指南"
+
+Cooking-Guide.Overview: "概述"
+
+Cooking-Guide.Cooking-Basics: "烹饪入门" {
+  Kitchen-Preparation: "厨房准备"
+  Basic-Skills: "基础技巧"
+  Common-Tools: "常用厨具"
 }
 
-sections: {
-  label: ""
-  shape: rectangle
-  style.stroke-width: 0
-
-  basics: {
-    label: "烹饪入门"
-    tooltip: "厨房准备、基础技巧和常用厨具"
-  }
-  recipes: {
-    label: "菜谱大全"
-    tooltip: "所有菜谱的集合"
-  }
-  advanced: {
-    label: "进阶知识"
-    tooltip: "高级烹饪技巧和理论"
-  }
-}
-
-recipes_sub: {
-  label: ""
-  shape: rectangle
-  style.stroke-width: 0
+Cooking-Guide.Recipe-Collection: "菜谱大全" {
+  label: "菜谱大全 (核心部分)"
+  style.fill: "#e6f7ff"
   
-  by_category: {
-    label: "按食材分类"
-  }
-  by_difficulty: {
-    label: "按难度索引"
-  }
+  Index-by-Difficulty: "按难度索引"
+  Category-by-Ingredient: "按食材分类"
 }
 
-guide -> sections.basics: "新手"
-guide -> sections.recipes: "核心"
-guide -> sections.advanced: "高手"
+Cooking-Guide.Advanced-Knowledge: "进阶知识" {
+  Advanced-Skills: "高级烹饪技巧"
+  Theory: "理论知识"
+}
 
-sections.recipes -> recipes_sub.by_category
-sections.recipes -> recipes_sub.by_difficulty
+Cooking-Guide -> Cooking-Guide.Overview
+Cooking-Guide -> Cooking-Guide.Cooking-Basics
+Cooking-Guide -> Cooking-Guide.Recipe-Collection
+Cooking-Guide -> Cooking-Guide.Advanced-Knowledge
+
+Cooking-Guide.Cooking-Basics -> Cooking-Guide.Cooking-Basics.Kitchen-Preparation
+Cooking-Guide.Cooking-Basics -> Cooking-Guide.Cooking-Basics.Basic-Skills
+Cooking-Guide.Cooking-Basics -> Cooking-Guide.Cooking-Basics.Common-Tools
+
+Cooking-Guide.Recipe-Collection -> Cooking-Guide.Recipe-Collection.Index-by-Difficulty
+Cooking-Guide.Recipe-Collection -> Cooking-Guide.Recipe-Collection.Category-by-Ingredient
+
+Cooking-Guide.Advanced-Knowledge -> Cooking-Guide.Advanced-Knowledge.Advanced-Skills
+Cooking-Guide.Advanced-Knowledge -> Cooking-Guide.Advanced-Knowledge.Theory
+
 ```
 
-<x-cards>
-  <x-card data-title="烹饪入门" data-icon="lucide:graduation-cap" data-href="/basics">
-    为烹饪新手准备，涵盖厨房准备、基础技巧和常用厨具等知识，帮助您顺利开启烹饪之旅。
+<x-cards data-columns="2">
+  <x-card data-title="烹饪入门" data-icon="lucide:chef-hat" data-href="/basics">
+    为烹饪新手准备的基础知识，涵盖厨房准备、基本刀工、火候控制，以及高压锅、空气炸锅等常用厨具的学习。
   </x-card>
-  <x-card data-title="菜谱大全" data-icon="lucide:book-open" data-href="/recipes">
-    收录了所有菜谱，您可以按照食材分类或烹饪难度进行浏览，快速找到心仪的菜肴。
+  <x-card data-title="菜谱大全" data-icon="lucide:book-open-check" data-href="/recipes">
+    本指南的核心，收录了大量经过验证的菜谱。您可以根据烹饪难度或主要食材进行浏览和检索。
   </x-card>
-  <x-card data-title="进阶知识" data-icon="lucide:bar-chart-2" data-href="/advanced">
-    专为有一定基础的烹饪爱好者设计，提供更高级的烹饪理论和技巧，助您厨艺更上一层楼。
+  <x-card data-title="进阶知识" data-icon="lucide:graduation-cap" data-href="/advanced">
+    为有一定基础的用户提供，内容包括辅料技巧、高级烹饪术语、糖色炒制和油温判断等，帮助您的厨艺更上一层楼。
+  </x-card>
+  <x-card data-title="如何贡献" data-icon="lucide:github">
+    我们欢迎您参与贡献！您可以直接修改发现的问题并提交 Pull request，或使用菜谱模板添加新的菜谱。
   </x-card>
 </x-cards>
 
-## 如何贡献
+## 本地部署
 
-本指南是一个开放的项目，我们鼓励您参与贡献。如果您发现了任何问题，或者想要添加一道拿手好菜，可以直接在我们的 GitHub 仓库中提交 Pull Request。我们提供了详细的菜谱模板以方便您撰写。
+如果您希望在本地环境中运行本菜谱的 Web 服务，可以按照以下步骤操作。请确保您的系统中已安装 Docker。
 
-我们希望这份结构清晰、内容精准的烹饪指南能成为您厨房中的得力助手。现在，您可以从 [烹饪入门](./basics.md) 开始，或直接进入 [菜谱大全](./recipes.md) 探索美食。
+```bash Docker
+# 拉取最新的 Docker 镜像
+docker pull ghcr.io/anduin2017/how-to-cook:latest
+
+# 在后台运行容器，并将服务的 80 端口映射到本地的 5000 端口
+docker run -d -p 5000:80 ghcr.io/anduin2017/how-to-cook:latest
+```
+
+部署成功后，您可以通过浏览器访问 `http://localhost:5000` 来查看本地菜谱服务。

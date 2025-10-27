@@ -74,3 +74,5 @@ appUrl: https://www.staging.arcblock.io
 boardId: howtocook
 # Checkout ID for document deployment service
 checkoutId: ""
+# Should sync branding for documentation
+shouldSyncBranding: ""

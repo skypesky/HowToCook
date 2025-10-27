@@ -1,135 +1,379 @@
 # 按难度索引
 
-本章节根据烹饪的复杂程度对所有菜谱进行分类索引。难度等级从一星到五星，星级越高，表示菜品的准备工作、烹饪技巧和时间成本相对更高。您可以根据自己的烹饪水平和时间安排，选择合适的菜谱进行尝试。
+本章节根据菜谱的烹饪难度进行分类，从一星到五星，难度依次递增。您可以根据自己的烹饪水平和时间安排，选择合适的菜谱进行尝试。星级越高，意味着菜谱的步骤越复杂、对技巧和时间的要求也越高。
 
-## 一星难度 ★☆☆☆☆
+---
 
-适合烹饪新手，或在时间紧张情况下快速完成的菜品。此类菜谱通常步骤简单、食材常见、耗时较短，无需复杂的烹饪技巧。
+## ⭐ 一星难度
 
-| 菜品名称 | 所属分类 |
-| :--- | :--- |
-| 凉拌黄瓜 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 糖拌西红柿 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 炒青菜 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 凉拌油麦菜 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 凉拌豆腐 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 鸡蛋花 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 太阳蛋 | [早餐](./recipes-by-category-breakfast.md) |
-| 完美水煮蛋 | [早餐](./recipes-by-category-breakfast.md) |
-| 微波炉荷包蛋 | [早餐](./recipes-by-category-breakfast.md) |
-| 吐司果酱 | [早餐](./recipes-by-category-breakfast.md) |
-| 牛奶燕麦 | [早餐](./recipes-by-category-breakfast.md) |
-| 水煮玉米 | [早餐](./recipes-by-category-breakfast.md) |
-| 老干妈拌面 | [主食](./recipes-by-category-staple-foods.md) |
-| 煮泡面加蛋 | [主食](./recipes-by-category-staple-foods.md) |
-| 炒方便面 | [主食](./recipes-by-category-staple-foods.md) |
-| 麻油拌面 | [主食](./recipes-by-category-staple-foods.md) |
-| 紫菜蛋花汤 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 柠檬水 | [饮料](./recipes-by-category-drinks.md) |
-| 葱油 | [酱料与其他](./recipes-by-category-sauces-and-others.md) |
-| 蒜香酱油 | [酱料与其他](./recipes-by-category-sauces-and-others.md) |
+一星难度的菜谱非常适合烹饪新手。它们通常步骤简单，准备时间短，几乎不需要特殊的烹饪技巧，可以让您轻松快速地完成一道美味。
 
-## 二星难度 ★★☆☆☆
+| 菜谱名称 |
+| :--- |
+| 吐司果酱 |
+| 微波炉荷包蛋 |
+| 微波炉蛋糕 |
+| 牛奶燕麦 |
+| 空气炸锅面包片 |
+| 金枪鱼酱三明治 |
+| 蔗糖糖浆 |
+| 奇异果菠菜特调 |
+| 柠檬水 |
+| 砂糖椰子冰沙 |
+| 酸梅汤（半成品加工） |
+| 黔式腊肠娃娃菜 |
+| 半成品意面 |
+| 速冻水饺 |
+| 速冻汤圆 |
+| 奶油蘑菇汤 |
+| 朱雀汤 |
+| 意式肉酱面 |
+| 煮泡面加蛋 |
+| 电饭煲蒸米饭 |
+| 老干妈拌面 |
+| 螺蛳粉 |
+| 麻油拌面 |
+| 凉拌油麦菜 |
+| 凉拌黄瓜 |
+| 清蒸南瓜 |
+| 炒滑蛋 |
+| 鸡蛋花 |
 
-适合有一定烹饪基础的爱好者。可能涉及基本的刀工、火候控制或多种调味料的搭配，步骤比一星菜品稍多。
+---
 
-| 菜品名称 | 所属分类 |
-| :--- | :--- |
-| 酸辣土豆丝 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 西红柿炒鸡蛋 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 蚝油生菜 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 蒜蓉西兰花 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 鸡蛋羹 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 可乐鸡翅 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 烤鸡翅 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 黄瓜炒肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 洋葱炒猪肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 白灼虾 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 清蒸生蚝 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 茶叶蛋 | [早餐](./recipes-by-category-breakfast.md) |
-| 鸡蛋三明治 | [早餐](./recipes-by-category-breakfast.md) |
-| 煎饺 | [早餐](./recipes-by-category-breakfast.md) |
-| 蛋炒饭 | [主食](./recipes-by-category-staple-foods.md) |
-| 汤面 | [主食](./recipes-by-category-staple-foods.md) |
-| 西红柿鸡蛋挂面 | [主食](./recipes-by-category-staple-foods.md) |
-| 速冻水饺 | [半成品加工](./recipes-by-category-semi-finished-products.md) |
-| 速冻汤圆 | [半成品加工](./recipes-by-category-semi-finished-products.md) |
-| 凉皮 | [半成品加工](./recipes-by-category-semi-finished-products.md) |
-| 西红柿鸡蛋汤 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 小米粥 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 奶茶 | [饮料](./recipes-by-category-drinks.md) |
+## ⭐⭐ 二星难度
 
-## 三星难度 ★★★☆☆
+二星难度的菜谱适合有一定基础的烹饪爱好者。这些菜谱可能涉及基本的刀工或火候控制，步骤比一星稍多，但整体操作依然清晰明了，是提升厨艺的绝佳选择。
 
-需要掌握多种烹饪技巧，如炒、炖、煎、炸等，并能准确控制火候和时间。菜品通常风味层次更丰富，制作过程相对复杂。
+| 菜谱名称 |
+| :--- |
+| 白灼虾 |
+| 蒜蓉虾 |
+| 蒜香黄油虾 |
+| 太阳蛋 |
+| 手抓饼 |
+| 桂圆红枣粥 |
+| 水煮玉米 |
+| 煎饺 |
+| 燕麦鸡蛋饼 |
+| 美式炒蛋 |
+| 蒸水蛋 |
+| 蒸花卷 |
+| 蛋煎糍粑 |
+| 鸡蛋三明治 |
+| 油酥 |
+| 炸串酱料 |
+| 糖醋汁 |
+| 草莓酱 |
+| 蒜香酱油 |
+| 烤箱版巴斯克芝士蛋糕 |
+| 草莓冰淇淋 |
+| 龟苓膏 |
+| 冬瓜茶 |
+| 冰粉 |
+| 可乐桶 |
+| 奶茶 |
+| 杨枝甘露 |
+| 耙耙柑茶 |
+| 金汤力 |
+| 金菲士 |
+| 长岛冰茶 |
+| 荷兰豆炒腊肠 |
+| 蒜苔炒肉末 |
+| 豆豉鲮鱼油麦菜 |
+| 炸薯条 |
+| 空气炸锅鸡翅中 |
+| 速冻馄饨 |
+| 小米粥 |
+| 米粥 |
+| 紫菜蛋花汤 |
+| 西红柿鸡蛋汤 |
+| 金针菇汤 |
+| 微波炉腊肠煲仔饭 |
+| 汤面 |
+| 炒方便面 |
+| 电饭煲三文鱼炊饭 |
+| 煮锅蒸米饭 |
+| 葱油拌面 |
+| 西红柿鸡蛋挂面 |
+| 酱拌荞麦面 |
+| 酸辣蕨根粉 |
+| 醪糟小汤圆 |
+| 陕西油泼面 |
+| 鲣鱼海苔玉米饭 |
+| 麻辣减脂荞麦面 |
+| 凉拌木耳 |
+| 凉拌莴笋 |
+| 凉拌豆腐 |
+| 凉拌金针菇 |
+| 松仁玉米 |
+| 水油焖蔬菜 |
+| 油醋爆蛋 |
+| 洋葱炒鸡蛋 |
+| 清炒花菜 |
+| 炒青菜 |
+| 白灼菜心 |
+| 糖拌西红柿 |
+| 素炒豆角 |
+| 芹菜拌茶树菇 |
+| 莴笋叶煎饼 |
+| 菠菜炒鸡蛋 |
+| 蒜蓉空心菜 |
+| 蒜蓉西兰花 |
+| 蚝油生菜 |
+| 西红柿炒鸡蛋 |
+| 西红柿豆腐汤羹 |
+| 西葫芦炒鸡蛋 |
+| 话梅煮毛豆 |
+| 酸辣土豆丝 |
+| 金针菇日本豆腐煲 |
+| 陕北熬豆角 |
+| 雷椒皮蛋 |
+| 鸡蛋火腿炒黄瓜 |
+| 微波炉鸡蛋羹 |
+| 鸡蛋羹 |
 
-| 菜品名称 | 所属分类 |
-| :--- | :--- |
-| 红烧茄子 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 地三鲜 | [素菜](./recipes-by-category-vegetable-dishes.md) |
-| 麻婆豆腐 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 鱼香肉丝 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 简易红烧肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 回锅肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 宫保鸡丁 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 黄焖鸡 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 啤酒鸭 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 糖醋排骨 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 孜然牛肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 小炒黄牛肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 清蒸鲈鱼 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 红烧鱼 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 油焖大虾 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 扬州炒饭 | [主食](./recipes-by-category-staple-foods.md) |
-| 炸酱面 | [主食](./recipes-by-category-staple-foods.md) |
-| 陕西油泼面 | [主食](./recipes-by-category-staple-foods.md) |
-| 葱油拌面 | [主食](./recipes-by-category-staple-foods.md) |
-| 热干面 | [主食](./recipes-by-category-staple-foods.md) |
-| 豆角焖面 | [主食](./recipes-by-category-staple-foods.md) |
-| 玉米排骨汤 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 皮蛋瘦肉粥 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 罗宋汤 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 酸梅汤 | [饮料](./recipes-by-category-drinks.md) |
-| Mojito莫吉托 | [饮料](./recipes-by-category-drinks.md) |
-| 油泼辣子 | [酱料与其他](./recipes-by-category-sauces-and-others.md) |
-| 提拉米苏 | [甜品](./recipes-by-category-desserts.md) |
+---
 
-## 四星难度 ★★★★☆
+## ⭐⭐⭐ 三星难度
 
-面向经验丰富的烹饪者。菜品可能需要精细的刀工、长时间的炖煮或对多种复杂风味的精确把握，对技术和耐心都有较高要求。
+三星难度的菜谱具有一定的挑战性，需要您掌握一些特定的烹饪技巧，如腌制、勾芡或更精确的火候掌握。完成这些菜谱将为您带来更大的成就感。
 
-| 菜品名称 | 所属分类 |
-| :--- | :--- |
-| 水煮肉片 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 粉蒸肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 梅菜扣肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 老式锅包肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 酱牛肉 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 新疆大盘鸡 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 西红柿牛腩 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 白菜猪肉炖粉条 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 杀猪菜 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 水煮鱼 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 糖醋鲤鱼 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 葱烧海参 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 小龙虾 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 螺蛳粉 | [主食](./recipes-by-category-staple-foods.md) |
-| 意式肉酱面 | [主食](./recipes-by-category-staple-foods.md) |
-| 手工水饺 | [主食](./recipes-by-category-staple-foods.md) |
-| 羊肉汤 | [汤与粥](./recipes-by-category-soups-and-congee.md) |
-| 杨枝甘露 | [饮料](./recipes-by-category-drinks.md) |
-| 戚风蛋糕 | [甜品](./recipes-by-category-desserts.md) |
+| 菜谱名称 |
+| :--- |
+| 干煎阿根廷红虾 |
+| 微波葱姜黑鳕鱼 |
+| 清蒸生蚝 |
+| 清蒸鲈鱼 |
+| 芥末黄油罗氏虾 |
+| 葱烧海参 |
+| 蛏抱蛋 |
+| 鲤鱼炖白菜 |
+| 鳊鱼炖豆腐 |
+| 黄油煎虾 |
+| 温泉蛋 |
+| 溏心蛋 |
+| 苏格兰蛋 |
+| 茶叶蛋 |
+| 油泼辣子 |
+| 葱油 |
+| 反沙芋头 |
+| 奥利奥冰淇淋 |
+| 炸鲜奶 |
+| 玛格丽特饼干 |
+| 红柚蛋糕 |
+| 英式司康 |
+| 雪花酥 |
+| B52轰炸机 |
+| Mojito莫吉托 |
+| 泰国手标红茶 |
+| 海边落日 |
+| 百香果橙子特调 |
+| 菠萝咖啡特调 |
+| 农家一碗香 |
+| 凉拌鸡丝 |
+| 卤菜 |
+| 口水鸡 |
+| 可乐鸡翅 |
+| 土豆炖排骨 |
+| 奶酪培根通心粉 |
+| 姜炒鸡 |
+| 姜葱捞鸡 |
+| 孜然牛肉 |
+| 小炒肉 |
+| 小炒鸡肝 |
+| 小米辣炒肉 |
+| 小酥肉 |
+| 尖椒炒牛肉 |
+| 意式烤鸡 |
+| 水煮牛肉 |
+| 洋葱炒猪肉 |
+| 清蒸鳜鱼 |
+| 湖南家常红烧肉 |
+| 烤鸡翅 |
+| 甜辣烤全翅 |
+| 瘦肉土豆片 |
+| 白菜猪肉炖粉条 |
+| 简易红烧肉 |
+| 肉饼炖蛋 |
+| 芥末罗氏虾 |
+| 茭白炒肉 |
+| 蚂蚁上树 |
+| 豉汁蒸白鱔 |
+| 辣椒炒肉 |
+| 青椒土豆炒肉 |
+| 香干肉丝 |
+| 香干芹菜炒肉 |
+| 香煎五花肉 |
+| 香菇滑鸡 |
+| 鱼香茄子 |
+| 麻婆豆腐 |
+| 麻辣香锅 |
+| 黄焖鸡 |
+| 黄瓜炒肉 |
+| 凉皮 |
+| 懒人蛋挞 |
+| 空气炸锅羊排 |
+| 勾芡香菇汤 |
+| 昂刺鱼豆腐汤 |
+| 玉米排骨汤 |
+| 番茄牛肉蛋花汤 |
+| 皮蛋瘦肉粥 |
+| 羊肉汤 |
+| 陈皮排骨汤 |
+| 凉粉 |
+| 炒凉粉 |
+| 炒年糕 |
+| 炒意大利面 |
+| 炒馍 |
+| 炸酱面 |
+| 芝麻烧饼 |
+| 热干面 |
+| 老友猪肉粉 |
+| 肉蛋盖饭 |
+| 茄子肉煎饼 |
+| 蛋包饭 |
+| 蛋炒饭 |
+| 豆角焖面 |
+| 韩式拌饭 |
+| 韭菜盒子 |
+| 上汤娃娃菜 |
+| 包菜炒鸡蛋粉丝 |
+| 地三鲜 |
+| 小炒藕丁 |
+| 干锅花菜 |
+| 手撕包菜 |
+| 拔丝土豆 |
+| 椒盐玉米 |
+| 榄菜肉末四季豆 |
+| 炒茄子 |
+| 烤茄子 |
+| 红烧冬瓜 |
+| 脆皮豆腐 |
+| 茄子炖土豆 |
+| 葱煎豆腐 |
+| 蒲烧茄子 |
+| 虎皮青椒 |
+| 蚝油三鲜菇 |
+| 蒸箱鸡蛋羹 |
 
-## 五星难度 ★★★★★
+---
 
-厨艺挑战的巅峰。这类菜谱通常工序繁琐，耗时极长，或需要专业的烹饪设备和高超的技巧，是真正考验烹饪技艺的菜品。
+## ⭐⭐⭐⭐ 四星难度
 
-| 菜品名称 | 所属分类 |
-| :--- | :--- |
-| 带把肘子 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 虎皮肘子 | [荤菜](./recipes-by-category-meat-dishes.md) |
-| 烤鱼 | [水产](./recipes-by-category-aquatic-dishes.md) |
-| 烙饼 | [主食](./recipes-by-category-staple-foods.md) |
-| 基础牛奶面包 | [主食](./recipes-by-category-staple-foods.md) |
-| 牛油火锅底料 | [半成品加工](./recipes-by-category-semi-finished-products.md) |
-| 长岛冰茶 | [饮料](./recipes-by-category-drinks.md) |
+四星难度的菜谱通常是地方名菜或经典菜肴，工序较为复杂，可能需要较长的烹饪时间或多种烹饪方法的结合。适合希望深入探索厨艺、挑战自我的朋友。
+
+| 菜谱名称 |
+| :--- |
+| 咖喱炒蟹 |
+| 小龙虾 |
+| 水煮鱼 |
+| 油焖大虾 |
+| 烤鱼 |
+| 糖醋鲤鱼 |
+| 红烧鱼 |
+| 红烧鱼头 |
+| 红烧鲤鱼 |
+| 葱油桂鱼 |
+| 香煎翘嘴鱼 |
+| 简易版炒糖色 |
+| 咖啡椰奶冻 |
+| 提拉米苏 |
+| 烤蛋挞 |
+| 酸奶意式奶冻 |
+| 魔芋蛋糕 |
+| 酒酿醪糟 |
+| 酸梅汤 |
+| 乡村啤酒鸭 |
+| 冬瓜酿肉 |
+| 冷吃兔 |
+| 咕噜肉 |
+| 咖喱肥牛 |
+| 啤酒鸭 |
+| 回锅肉 |
+| 宫保鸡丁 |
+| 小炒黄牛肉 |
+| 尖叫牛蛙 |
+| 山西过油肉 |
+| 干煸仔鸡 |
+| 广式萝卜牛腩 |
+| 徽派红烧肉 |
+| 新疆大盘鸡 |
+| 杀猪菜 |
+| 柱候牛腩 |
+| 梅菜扣肉 |
+| 椒盐排条 |
+| 湘祁米夫鸭 |
+| 煎烤羊排 |
+| 牛排 |
+| 番茄红酱 |
+| 粉蒸肉 |
+| 糖醋排骨 |
+| 糖醋里脊 |
+| 红烧猪蹄 |
+| 南派红烧肉 |
+| 羊排焖面 |
+| 老妈蹄花 |
+| 老式锅包肉 |
+| 荔枝肉 |
+| 萝卜炖羊排 |
+| 西红柿土豆炖牛肉 |
+| 贵州辣子鸡 |
+| 酱排骨 |
+| 醉排骨 |
+| 香辣鸡爪煲 |
+| 鱼香肉丝 |
+| 黑椒牛柳 |
+| 排骨苦瓜汤 |
+| 生汆丸子汤 |
+| 罗宋汤 |
+| 腊八粥 |
+| 菌菇炖乳鸽 |
+| 银耳莲子粥 |
+| 陈皮排骨汤 |
+| 中式馅饼 |
+| 扬州炒饭 |
+| 披萨饼皮 |
+| 日式咖喱饭 |
+| 日式肥牛丼饭 |
+| 河南蒸面条 |
+| 火腿饭团 |
+| 炒河粉 |
+| 烙饼 |
+| 空气炸锅照烧鸡饭 |
+| 蒸卤面 |
+| 示例菜 |
+| 红烧茄子 |
+
+---
+
+## ⭐⭐⭐⭐⭐ 五星难度
+
+五星是最高难度，代表着对烹饪技巧、耐心和经验的终极考验。这些菜谱往往是工序繁复的“硬菜”或精致的甜点，成功制作将带来无与伦比的满足感。
+
+| 菜谱名称 |
+| :--- |
+| 完美水煮蛋 |
+| 戚风蛋糕 |
+| 无厨师机蜂蜜面包 |
+| 芋泥雪媚娘 |
+| 台式卤肉饭 |
+| 商芝肉 |
+| 巴基斯坦牛肉咖喱 |
+| 带把肘子 |
+| 无骨鸡爪 |
+| 枝竹羊腩煲 |
+| 水煮肉片 |
+| 猪皮冻 |
+| 猪肉烩酸菜 |
+| 虎皮肘子 |
+| 血浆鸭 |
+| 西红柿牛腩 |
+| 酱牛肉 |
+| 牛油火锅底料 |
+| 基础牛奶面包 |
+| 手工水饺 |
+
+---
+
+希望这份按难度索引的菜谱能帮助您找到烹饪的乐趣，并逐步成为一名出色的家庭厨师。
